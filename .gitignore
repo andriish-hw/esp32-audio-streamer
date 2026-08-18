@@ -1,0 +1,25 @@
+# Тимчасові файли та збірка ESP-IDF
+build/
+sdkconfig.old
+dependencies.lock
+managed_components/
+*.bin
+*.elf
+*.map
+
+# Сміття та бекапи KiCad
+*.kicad_prl
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-save.kicad_pcb
+*-save.kicad_sch
+*-bak
+_autosave-*
+*.tmp
+fp-info-cache
+
+# Системне та редактори
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

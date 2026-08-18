@@ -1,0 +1,4 @@
+При використанні ESP32-WROOM:
+idf.py menuconfig -> Component config:
+-> ESP32 PSRAM - вимкнути support
+-> блютуз - можна залишити LDAC, aptX; всі інші кодеки вимкнути

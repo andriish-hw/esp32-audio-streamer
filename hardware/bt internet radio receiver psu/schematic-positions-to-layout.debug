@@ -1,0 +1,129 @@
+work_dir = D:\Projects\bt internet radio receiver\bt internet radio receiver psu
+in_pcb_file = bt internet radio receiver.kicad_pcb
+root_schematic_file = bt internet radio receiver.kicad_sch
+store to sheet[] = bt internet radio receiver.kicad_sch
+/01ca487d-0ada-48ab-a167-2f025aef6e6b ('C4', (10541, 3556), '')
+/066a9218-a454-4326-8aed-71ee6c4b8917 ('Q1', (10160, 7493), '')
+/08438353-7c4e-48a2-90a9-2e6b7c81fe41 ('C14', (8509, 8890), '')
+/0a829b82-aafa-4e55-9f7c-4bbfc9133494 ('J5', (18288, 3048), '')
+/10590dc7-e10a-46e2-a226-66d35e1f196f ('#PWR017', (15113, 8763), '')
+/1274a7d8-ceeb-410a-ad98-03ead2a62d4f ('C7', (15621, 2540), '')
+/138f33ee-4bf1-472c-8dfc-bc26f49eb5be ('#PWR02', (7620, 3048), '')
+/1ae981cc-114a-4f1e-8dc1-072c1c435dd5 ('C6', (11684, 3556), '')
+/1bae42ab-3670-4e31-b42b-864d12c59d69 ('#PWR015', (15747, 8255), '')
+/23a0fa8f-25d5-45da-9c67-130fdc84dd6a ('D2', (5715, 5334), '')
+/253ea8ed-54ef-4e18-bd3c-a28fcb4d1509 ('Q2', (10160, 9271), '')
+/2c8763fa-048b-48b2-9656-eff53a2b50cf ('#PWR07', (13462, 2159), '')
+/2e295c8c-014d-4500-bc25-4d9453b761f5 ('C12', (8890, 5334), '')
+/2f843303-5b8e-432d-a79d-0de9dba1e55a ('C2', (7620, 3556), '')
+/3a2d8e09-f637-4aa7-bac7-b84b687ee1ac ('J8', (17145, 8255), '')
+/3a641ced-1772-4a37-aea5-bd08f3c34231 ('U5', (10541, 5334), '')
+/3bb22201-a1e4-445e-a654-d0f8e269d5fd ('#PWR020', (12827, 8128), '')
+/43e187f9-9a74-46f2-9f48-1edbcb6e8383 ('U2', (9144, 3936), '')
+/44f718f0-bcec-4f83-b92e-4ff833b46ccb ('#PWR018', (13843, 8255), '')
+/4bef3c7c-ea6f-4fdb-b929-66679845f0df ('#PWR08', (13462, 3936), '')
+/5452e302-9161-491c-b43f-3dd15551d895 ('C8', (15621, 3556), '')
+/5b85d620-c392-4e84-8f05-ceaff629f582 ('L1', (6731, 8382), '')
+/5e9eb56e-023e-4104-89a9-fff45c6cd4de ('C1', (7620, 2540), '')
+/67644b11-134e-439c-a33c-204ef70eece5 ('C9', (16764, 2540), '')
+/6a7decce-e738-4e79-af94-39722599da4c ('J7', (12700, 5080), '')
+/6c57e49f-38ad-4edc-8290-fc8148b6fbb7 ('C15', (6096, 8890), '')
+/6f1eb521-32c5-4f92-a04c-f64d7dd77095 ('R2', (10922, 9144), '')
+/74fc1e91-2178-461a-be9c-86c6ae6ef488 ('J3', (13208, 3048), '')
+/77da0e67-66f6-496c-8f87-cfc43ed6a69d ('J9', (3302, 5207), '')
+/7846a5d0-29e4-4833-ab2a-a2a0a966f5e1 ('#PWR05', (11811, 5588), '')
+/78af0e3b-17df-43b9-bada-dbab1bd5a418 ('U4', (14351, 3936), '')
+/840f0b95-776f-4fb5-905b-5c15603de14c ('C5', (11684, 2540), '')
+/89b4593b-52eb-427c-91ef-7fff79dbdf33 ('U3', (14351, 2159), '')
+/89b6c3de-5003-47e8-8af2-e9b21f18a7d1 ('#PWR019', (12954, 8636), '')
+/8bd69a0f-9455-4a57-96d7-bf9d59bced41 ('#PWR012', (6096, 8382), '')
+/8e42658c-dfb5-45d2-af8c-f315662e3ee1 ('U1', (9144, 2159), '')
+/923c5cda-5016-4891-a6db-611624b6419f ('C3', (10541, 2540), '')
+/9553faaa-ff63-469e-ab7d-95e5aa1ab80f ('C11', (7620, 5334), '')
+/995e8b76-bd0e-44ef-a6fa-3834b6b611d1 ('#PWR014', (16129, 8001), '')
+/9bf34cc1-42fb-4010-bb9a-482b44fa0598 ('#PWR011', (11811, 4953), '')
+/a2ce8682-c0e4-4f99-9589-ae6b2d21447e ('#PWR021', (7366, 9271), '')
+/a7dc0fed-2812-43d4-b249-89c4d53fb9b9 ('#PWR016', (15366, 8509), '')
+/a8141bd9-8a9f-49c3-8a29-e108cc417867 ('#PWR09', (17526, 2159), '')
+/bac808bb-de42-434a-b2f4-d3f3f875d075 ('C10', (16764, 3556), '')
+/c5d8c1a8-6441-4d47-a467-5e8cda403698 ('#PWR013', (16383, 9017), '')
+/c785b17b-553e-42e5-94a1-2cc58e8e92a8 ('R1', (10922, 7620), '')
+/ca82c8bb-5630-4c07-bde0-94e614b9a34d ('#PWR06', (9525, 9525), '')
+/d4dedbdb-0732-4005-9a2e-208f38ae3628 ('#PWR010', (17526, 3936), '')
+/d6b44691-9c3a-4b84-bc99-59a13ea5622b ('#PWR01', (3936, 3048), '')
+/daad8f7a-cea3-4db4-abbd-a062a4e66c2c ('J1', (3302, 3048), '')
+/dd66e08d-7ce5-466d-8cec-8a432d690693 ('D1', (5715, 3048), '')
+/ef4e5d7f-e4e2-4f84-bd52-25ad63d3f553 ('#PWR03', (14351, 3048), '')
+/f01cad96-dce0-4ba5-a2d8-ac19c924b8db ('D3', (13335, 8382), '')
+/fb81c4e0-bcb6-4338-929d-5fded8dd0ac9 ('TR1', (12192, 8382), '')
+/fc2f4dcb-a506-44c8-b055-b59453ca0617 ('C13', (7366, 8890), '')
+D2 /23a0fa8f-25d5-45da-9c67-130fdc84dd6a
+  path = /23a0fa8f-25d5-45da-9c67-130fdc84dd6a   sheet =    ref = D2   pos = (5715, 5334)   new_pos = (28575000, 26670000)
+C10 /bac808bb-de42-434a-b2f4-d3f3f875d075
+  path = /bac808bb-de42-434a-b2f4-d3f3f875d075   sheet =    ref = C10   pos = (16764, 3556)   new_pos = (83820000, 17780000)
+C3 /923c5cda-5016-4891-a6db-611624b6419f
+  path = /923c5cda-5016-4891-a6db-611624b6419f   sheet =    ref = C3   pos = (10541, 2540)   new_pos = (52705000, 12700000)
+C14 /08438353-7c4e-48a2-90a9-2e6b7c81fe41
+  path = /08438353-7c4e-48a2-90a9-2e6b7c81fe41   sheet =    ref = C14   pos = (8509, 8890)   new_pos = (42545000, 44450000)
+C4 /01ca487d-0ada-48ab-a167-2f025aef6e6b
+  path = /01ca487d-0ada-48ab-a167-2f025aef6e6b   sheet =    ref = C4   pos = (10541, 3556)   new_pos = (52705000, 17780000)
+Q1 /066a9218-a454-4326-8aed-71ee6c4b8917
+  path = /066a9218-a454-4326-8aed-71ee6c4b8917   sheet =    ref = Q1   pos = (10160, 7493)   new_pos = (50800000, 37465000)
+J3 /74fc1e91-2178-461a-be9c-86c6ae6ef488
+  path = /74fc1e91-2178-461a-be9c-86c6ae6ef488   sheet =    ref = J3   pos = (13208, 3048)   new_pos = (66040000, 15240000)
+C15 /6c57e49f-38ad-4edc-8290-fc8148b6fbb7
+  path = /6c57e49f-38ad-4edc-8290-fc8148b6fbb7   sheet =    ref = C15   pos = (6096, 8890)   new_pos = (30480000, 44450000)
+U3 /89b4593b-52eb-427c-91ef-7fff79dbdf33
+  path = /89b4593b-52eb-427c-91ef-7fff79dbdf33   sheet =    ref = U3   pos = (14351, 2159)   new_pos = (71755000, 10795000)
+C12 /2e295c8c-014d-4500-bc25-4d9453b761f5
+  path = /2e295c8c-014d-4500-bc25-4d9453b761f5   sheet =    ref = C12   pos = (8890, 5334)   new_pos = (44450000, 26670000)
+R2 /6f1eb521-32c5-4f92-a04c-f64d7dd77095
+  path = /6f1eb521-32c5-4f92-a04c-f64d7dd77095   sheet =    ref = R2   pos = (10922, 9144)   new_pos = (54610000, 45720000)
+C5 /840f0b95-776f-4fb5-905b-5c15603de14c
+  path = /840f0b95-776f-4fb5-905b-5c15603de14c   sheet =    ref = C5   pos = (11684, 2540)   new_pos = (58420000, 12700000)
+C7 /1274a7d8-ceeb-410a-ad98-03ead2a62d4f
+  path = /1274a7d8-ceeb-410a-ad98-03ead2a62d4f   sheet =    ref = C7   pos = (15621, 2540)   new_pos = (78105000, 12700000)
+C1 /5e9eb56e-023e-4104-89a9-fff45c6cd4de
+  path = /5e9eb56e-023e-4104-89a9-fff45c6cd4de   sheet =    ref = C1   pos = (7620, 2540)   new_pos = (38100000, 12700000)
+U2 /43e187f9-9a74-46f2-9f48-1edbcb6e8383
+  path = /43e187f9-9a74-46f2-9f48-1edbcb6e8383   sheet =    ref = U2   pos = (9144, 3936)   new_pos = (45720000, 19680000)
+U1 /8e42658c-dfb5-45d2-af8c-f315662e3ee1
+  path = /8e42658c-dfb5-45d2-af8c-f315662e3ee1   sheet =    ref = U1   pos = (9144, 2159)   new_pos = (45720000, 10795000)
+J8 /3a2d8e09-f637-4aa7-bac7-b84b687ee1ac
+  path = /3a2d8e09-f637-4aa7-bac7-b84b687ee1ac   sheet =    ref = J8   pos = (17145, 8255)   new_pos = (85725000, 41275000)
+C13 /fc2f4dcb-a506-44c8-b055-b59453ca0617
+  path = /fc2f4dcb-a506-44c8-b055-b59453ca0617   sheet =    ref = C13   pos = (7366, 8890)   new_pos = (36830000, 44450000)
+J1 /daad8f7a-cea3-4db4-abbd-a062a4e66c2c
+  path = /daad8f7a-cea3-4db4-abbd-a062a4e66c2c   sheet =    ref = J1   pos = (3302, 3048)   new_pos = (16510000, 15240000)
+C9 /67644b11-134e-439c-a33c-204ef70eece5
+  path = /67644b11-134e-439c-a33c-204ef70eece5   sheet =    ref = C9   pos = (16764, 2540)   new_pos = (83820000, 12700000)
+U5 /3a641ced-1772-4a37-aea5-bd08f3c34231
+  path = /3a641ced-1772-4a37-aea5-bd08f3c34231   sheet =    ref = U5   pos = (10541, 5334)   new_pos = (52705000, 26670000)
+C8 /5452e302-9161-491c-b43f-3dd15551d895
+  path = /5452e302-9161-491c-b43f-3dd15551d895   sheet =    ref = C8   pos = (15621, 3556)   new_pos = (78105000, 17780000)
+L1 /5b85d620-c392-4e84-8f05-ceaff629f582
+  path = /5b85d620-c392-4e84-8f05-ceaff629f582   sheet =    ref = L1   pos = (6731, 8382)   new_pos = (33655000, 41910000)
+J5 /0a829b82-aafa-4e55-9f7c-4bbfc9133494
+  path = /0a829b82-aafa-4e55-9f7c-4bbfc9133494   sheet =    ref = J5   pos = (18288, 3048)   new_pos = (91440000, 15240000)
+D1 /dd66e08d-7ce5-466d-8cec-8a432d690693
+  path = /dd66e08d-7ce5-466d-8cec-8a432d690693   sheet =    ref = D1   pos = (5715, 3048)   new_pos = (28575000, 15240000)
+C6 /1ae981cc-114a-4f1e-8dc1-072c1c435dd5
+  path = /1ae981cc-114a-4f1e-8dc1-072c1c435dd5   sheet =    ref = C6   pos = (11684, 3556)   new_pos = (58420000, 17780000)
+Q2 /253ea8ed-54ef-4e18-bd3c-a28fcb4d1509
+  path = /253ea8ed-54ef-4e18-bd3c-a28fcb4d1509   sheet =    ref = Q2   pos = (10160, 9271)   new_pos = (50800000, 46355000)
+J9 /77da0e67-66f6-496c-8f87-cfc43ed6a69d
+  path = /77da0e67-66f6-496c-8f87-cfc43ed6a69d   sheet =    ref = J9   pos = (3302, 5207)   new_pos = (16510000, 26035000)
+D3 /f01cad96-dce0-4ba5-a2d8-ac19c924b8db
+  path = /f01cad96-dce0-4ba5-a2d8-ac19c924b8db   sheet =    ref = D3   pos = (13335, 8382)   new_pos = (66675000, 41910000)
+U4 /78af0e3b-17df-43b9-bada-dbab1bd5a418
+  path = /78af0e3b-17df-43b9-bada-dbab1bd5a418   sheet =    ref = U4   pos = (14351, 3936)   new_pos = (71755000, 19680000)
+R1 /c785b17b-553e-42e5-94a1-2cc58e8e92a8
+  path = /c785b17b-553e-42e5-94a1-2cc58e8e92a8   sheet =    ref = R1   pos = (10922, 7620)   new_pos = (54610000, 38100000)
+C11 /9553faaa-ff63-469e-ab7d-95e5aa1ab80f
+  path = /9553faaa-ff63-469e-ab7d-95e5aa1ab80f   sheet =    ref = C11   pos = (7620, 5334)   new_pos = (38100000, 26670000)
+C2 /2f843303-5b8e-432d-a79d-0de9dba1e55a
+  path = /2f843303-5b8e-432d-a79d-0de9dba1e55a   sheet =    ref = C2   pos = (7620, 3556)   new_pos = (38100000, 17780000)
+TR1 /fb81c4e0-bcb6-4338-929d-5fded8dd0ac9
+  path = /fb81c4e0-bcb6-4338-929d-5fded8dd0ac9   sheet =    ref = TR1   pos = (12192, 8382)   new_pos = (60960000, 41910000)
+J7 /6a7decce-e738-4e79-af94-39722599da4c
+  path = /6a7decce-e738-4e79-af94-39722599da4c   sheet =    ref = J7   pos = (12700, 5080)   new_pos = (63500000, 25400000)
