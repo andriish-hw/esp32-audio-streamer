@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "835420a0-fb8f-4518-86f7-179931332dd7")
 	(paper "A4")
+	(title_block
+		(title "VFD VU Meter Board")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:LM318J"
 			(pin_names
@@ -7453,7 +7456,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 210.82 101.6 0)
+		(at 157.48 182.88 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -7462,7 +7465,7 @@
 		(fields_autoplaced yes)
 		(uuid "a4415832-d36f-45f7-b39c-4210e85b8041")
 		(property "Reference" "H3"
-			(at 213.36 100.3299 0)
+			(at 160.02 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7471,7 +7474,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 213.36 102.8699 0)
+			(at 160.02 184.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7480,7 +7483,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
-			(at 210.82 101.6 0)
+			(at 157.48 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7489,7 +7492,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 210.82 101.6 0)
+			(at 157.48 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7498,7 +7501,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 210.82 101.6 0)
+			(at 157.48 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7656,7 +7659,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 210.82 91.44 0)
+		(at 157.48 172.72 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -7665,7 +7668,7 @@
 		(fields_autoplaced yes)
 		(uuid "b60e3ebe-3915-4115-a24b-c7f2447fb676")
 		(property "Reference" "H1"
-			(at 213.36 90.1699 0)
+			(at 160.02 171.4499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7674,7 +7677,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 213.36 92.7099 0)
+			(at 160.02 173.9899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7683,7 +7686,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
-			(at 210.82 91.44 0)
+			(at 157.48 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7692,7 +7695,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 210.82 91.44 0)
+			(at 157.48 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7701,7 +7704,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 210.82 91.44 0)
+			(at 157.48 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7720,7 +7723,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 210.82 106.68 0)
+		(at 157.48 187.96 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -7729,7 +7732,7 @@
 		(fields_autoplaced yes)
 		(uuid "bc6af1d5-24fe-4ec9-a7ff-661c70db2259")
 		(property "Reference" "H4"
-			(at 213.36 105.4099 0)
+			(at 160.02 186.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7738,7 +7741,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 213.36 107.9499 0)
+			(at 160.02 189.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7747,7 +7750,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
-			(at 210.82 106.68 0)
+			(at 157.48 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7756,7 +7759,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 210.82 106.68 0)
+			(at 157.48 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7765,7 +7768,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 210.82 106.68 0)
+			(at 157.48 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8007,7 +8010,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 210.82 96.52 0)
+		(at 157.48 177.8 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -8016,7 +8019,7 @@
 		(fields_autoplaced yes)
 		(uuid "dc5c1d19-6f74-419d-a2aa-f4db1fccfa63")
 		(property "Reference" "H2"
-			(at 213.36 95.2499 0)
+			(at 160.02 176.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8025,7 +8028,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 213.36 97.7899 0)
+			(at 160.02 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8034,7 +8037,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
-			(at 210.82 96.52 0)
+			(at 157.48 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8043,7 +8046,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 210.82 96.52 0)
+			(at 157.48 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8052,7 +8055,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 210.82 96.52 0)
+			(at 157.48 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)

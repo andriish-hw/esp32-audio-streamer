@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "d42adb58-f4cf-4831-9abd-8b9ba21d85ff")
 	(paper "A4")
+	(title_block
+		(title "OpAmp Headphones Amplifier Board")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:NE5532"
 			(pin_names
@@ -4059,7 +4062,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 177.8 152.4 0)
+		(at 147.32 193.04 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -4068,7 +4071,7 @@
 		(fields_autoplaced yes)
 		(uuid "3d534fb1-21ab-40d4-a59f-4109f3af2af0")
 		(property "Reference" "H2"
-			(at 180.34 151.1299 0)
+			(at 149.86 191.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4077,7 +4080,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 180.34 153.6699 0)
+			(at 149.86 194.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4086,7 +4089,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
-			(at 177.8 152.4 0)
+			(at 147.32 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4095,7 +4098,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 177.8 152.4 0)
+			(at 147.32 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4104,7 +4107,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 177.8 152.4 0)
+			(at 147.32 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4547,7 +4550,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 190.5 152.4 0)
+		(at 160.02 193.04 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -4556,7 +4559,7 @@
 		(fields_autoplaced yes)
 		(uuid "562993a3-924b-4ea4-a82d-6f18c60dba83")
 		(property "Reference" "H4"
-			(at 193.04 151.1299 0)
+			(at 162.56 191.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4565,7 +4568,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 193.04 153.6699 0)
+			(at 162.56 194.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4574,7 +4577,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
-			(at 190.5 152.4 0)
+			(at 160.02 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4583,7 +4586,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 190.5 152.4 0)
+			(at 160.02 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4592,7 +4595,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 190.5 152.4 0)
+			(at 160.02 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5696,7 +5699,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 177.8 146.05 0)
+		(at 147.32 186.69 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -5705,7 +5708,7 @@
 		(fields_autoplaced yes)
 		(uuid "8129c230-5739-4a79-805b-266cf31a725e")
 		(property "Reference" "H1"
-			(at 180.34 144.7799 0)
+			(at 149.86 185.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5714,7 +5717,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 180.34 147.3199 0)
+			(at 149.86 187.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5723,7 +5726,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
-			(at 177.8 146.05 0)
+			(at 147.32 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5732,7 +5735,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 177.8 146.05 0)
+			(at 147.32 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5741,7 +5744,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 177.8 146.05 0)
+			(at 147.32 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5900,7 +5903,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 190.5 146.05 0)
+		(at 160.02 186.69 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -5909,7 +5912,7 @@
 		(fields_autoplaced yes)
 		(uuid "93d77655-679c-44ec-8005-245e1bd7c859")
 		(property "Reference" "H3"
-			(at 193.04 144.7799 0)
+			(at 162.56 185.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5918,7 +5921,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 193.04 147.3199 0)
+			(at 162.56 187.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5927,7 +5930,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
-			(at 190.5 146.05 0)
+			(at 160.02 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5936,7 +5939,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 190.5 146.05 0)
+			(at 160.02 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5945,7 +5948,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 190.5 146.05 0)
+			(at 160.02 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6633,28 +6636,28 @@
 			)
 		)
 		(pin "5"
-			(uuid "f5f29fd2-75d1-460e-b89b-b7cad0d19956")
+			(uuid "f5f29fd2-75d1-460e-b89b-b7cad0d19957")
 		)
 		(pin "6"
-			(uuid "c8654de6-c301-45e0-802f-fda6487a2ea7")
+			(uuid "c8654de6-c301-45e0-802f-fda6487a2ea8")
 		)
 		(pin "3"
-			(uuid "5bdeded9-9f59-4f97-9b4e-27c3dad6ccb9")
+			(uuid "5bdeded9-9f59-4f97-9b4e-27c3dad6ccba")
 		)
 		(pin "4"
-			(uuid "0935c7e1-c618-4013-b76d-08b5a6c8f55e")
+			(uuid "0935c7e1-c618-4013-b76d-08b5a6c8f55f")
 		)
 		(pin "7"
-			(uuid "8c6629f0-b860-4104-b55f-0d87d5827e5b")
+			(uuid "8c6629f0-b860-4104-b55f-0d87d5827e5c")
 		)
 		(pin "8"
-			(uuid "706a3007-4da2-4661-ae7c-f725edcc01a2")
+			(uuid "706a3007-4da2-4661-ae7c-f725edcc01a3")
 		)
 		(pin "2"
-			(uuid "228d2346-3f96-4a35-b025-758c522726d5")
+			(uuid "228d2346-3f96-4a35-b025-758c522726d6")
 		)
 		(pin "1"
-			(uuid "2c4a97eb-fc3d-4a3b-be54-627514ac673e")
+			(uuid "2c4a97eb-fc3d-4a3b-be54-627514ac673f")
 		)
 		(instances
 			(project ""
@@ -6861,28 +6864,28 @@
 			)
 		)
 		(pin "5"
-			(uuid "f5f29fd2-75d1-460e-b89b-b7cad0d19956")
+			(uuid "f5f29fd2-75d1-460e-b89b-b7cad0d19958")
 		)
 		(pin "6"
-			(uuid "c8654de6-c301-45e0-802f-fda6487a2ea7")
+			(uuid "c8654de6-c301-45e0-802f-fda6487a2ea9")
 		)
 		(pin "3"
-			(uuid "5bdeded9-9f59-4f97-9b4e-27c3dad6ccb9")
+			(uuid "5bdeded9-9f59-4f97-9b4e-27c3dad6ccbb")
 		)
 		(pin "4"
-			(uuid "0935c7e1-c618-4013-b76d-08b5a6c8f55e")
+			(uuid "0935c7e1-c618-4013-b76d-08b5a6c8f560")
 		)
 		(pin "7"
-			(uuid "8c6629f0-b860-4104-b55f-0d87d5827e5b")
+			(uuid "8c6629f0-b860-4104-b55f-0d87d5827e5d")
 		)
 		(pin "8"
-			(uuid "706a3007-4da2-4661-ae7c-f725edcc01a2")
+			(uuid "706a3007-4da2-4661-ae7c-f725edcc01a4")
 		)
 		(pin "2"
-			(uuid "228d2346-3f96-4a35-b025-758c522726d5")
+			(uuid "228d2346-3f96-4a35-b025-758c522726d7")
 		)
 		(pin "1"
-			(uuid "2c4a97eb-fc3d-4a3b-be54-627514ac673e")
+			(uuid "2c4a97eb-fc3d-4a3b-be54-627514ac6740")
 		)
 		(instances
 			(project ""
